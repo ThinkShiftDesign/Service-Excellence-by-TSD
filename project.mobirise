@@ -354,7 +354,7 @@
             "paddingBottom": "3",
             "bgColor": "#fff"
           },
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://drive.google.com/file/d/0B2WzSfMNiVEmcTBJc2Z3MlA0Rk0/view?usp=sharing\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SEE SERVICE BREAKDOWN</a>"
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://drive.google.com/open?id=0B2WzSfMNiVEmWU9KR2tGMGVKcEE\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SEE SERVICE BREAKDOWN</a>"
         },
         {
           "_inherit": "msg-box8",
