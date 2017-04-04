@@ -44,7 +44,7 @@
             },
             ".navbar-caption": {
               "color": "#ffffff",
-              "font-size": "18px"
+              "font-size": "16px"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -125,7 +125,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://www.thinkshiftdesign.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">THINK.SHIFT.DESIGN</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://www.thinkshiftdesign.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">Service Excellence by Think.Shift.Design.</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content8-0\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-2\" aria-expanded=\"false\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box3-6\" aria-expanded=\"false\">ABOUT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#form1-7\">TAKE THE NEXT STEP</a></li>"
         },
         {
@@ -134,6 +134,9 @@
           "_styles": {
             ".mbr-section-title": {
               "font-size": "60px"
+            },
+            ".mbr-section-lead": {
+              "font-size": "20px"
             }
           },
           "_anchor": "header1-1",
@@ -274,7 +277,7 @@
               "linkInNewWindow": false
             }
           },
-          "title2": "Inocognito Service Audit",
+          "title2": "Incognito Service Audit",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "Deploy trained and experienced \"mystery consumers\" to conduct service audits at a physical store. Provide unbiased evaluation of in-store service standards.&nbsp;<br>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -555,7 +558,7 @@
             },
             ".navbar-caption": {
               "color": "#ffffff",
-              "font-size": "18px"
+              "font-size": "16px"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -639,7 +642,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://www.thinkshiftdesign.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">THINK.SHIFT.DESIGN</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://www.thinkshiftdesign.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">Service Excellence by Think.Shift.Design.</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content8-0\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-2\" aria-expanded=\"false\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box3-6\" aria-expanded=\"false\">ABOUT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#form1-7\">TAKE THE NEXT STEP</a></li>"
         }
       ]
@@ -722,7 +725,7 @@
             },
             ".navbar-caption": {
               "color": "#ffffff",
-              "font-size": "18px"
+              "font-size": "16px"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -806,7 +809,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://www.thinkshiftdesign.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">THINK.SHIFT.DESIGN</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://www.thinkshiftdesign.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">Service Excellence by Think.Shift.Design.</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content8-0\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-2\" aria-expanded=\"false\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box3-6\" aria-expanded=\"false\">ABOUT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#form1-7\">TAKE THE NEXT STEP</a></li>"
         }
       ]
