@@ -666,6 +666,9 @@ h6,
 .extProgressBar5 .progress-primary[value]::-ms-fill {
   color: #c0a375;
 }
+.theme-border {
+  border: 1px solid #c0a375;
+}
 #menu-0 .hide-buttons .nav-btn {
   display: none !important;
 }
